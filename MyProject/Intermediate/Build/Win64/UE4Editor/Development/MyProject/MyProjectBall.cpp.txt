@@ -1,0 +1,7 @@
+C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\Rusty\Documents\Unreal Projects\MyProject\Source\MyProject\MyProjectBall.h
+C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectBall.generated.h
+G:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+G:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+G:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+G:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
