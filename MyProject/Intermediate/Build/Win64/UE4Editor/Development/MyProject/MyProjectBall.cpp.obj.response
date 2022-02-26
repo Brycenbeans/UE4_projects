@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject"
-/I "C:\Users\Rusty\Documents\Unreal Projects\MyProject\Source"
+/I "C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject"
+/I "C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Source\MyProject\MyProjectBall.cpp"
-/FI"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
-/Fo"C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectBall.cpp.obj"
+/FI"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Source\MyProject\MyProjectBall.cpp"
+/FI"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
+/Fo"C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectBall.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,2 +1,2 @@
-C:\Users\Rusty\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-C:\Users\Rusty\Documents\Unreal Projects\MyProject\Source\MyProject\MyProject.h
+C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\Rusty\Documents\Unreal Projects\UE4_projects\MyProject\Source\MyProject\MyProject.h
